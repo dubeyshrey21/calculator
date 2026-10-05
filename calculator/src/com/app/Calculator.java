@@ -8,4 +8,9 @@ public class Calculator {
 		
 	}
 
+	public void substraction()
+	{
+		System.out.println("substraction");
+	}
+
 }
